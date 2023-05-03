@@ -1,9 +1,7 @@
 {
   "scripts": [
-    "https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"
   ],
   "styles": [
-    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.css",
-    "https://cdnjs.cloudflare.com/ajax/libs/sass.js/0.11.1/sass.js"
+    "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.css"
   ]
 }
